@@ -18,6 +18,8 @@ body {
 *{
   margin:0;
   scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-height: 0;
 }
 :root{
   --theme-dark: #B642F2;
